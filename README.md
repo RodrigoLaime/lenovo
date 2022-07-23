@@ -1,0 +1,2 @@
+# lenovo
+pc.escritorio
